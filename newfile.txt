@@ -1,0 +1,4 @@
+One more line only
+Inserted through file handling
+this is more content
+in the same file
